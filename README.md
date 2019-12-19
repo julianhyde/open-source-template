@@ -1,2 +1,3 @@
-# open-source-template
-New Open Source repositories should use this as a template 
+# Looker's open-source-template
+
+New Looker Open Source repositories should use this repository as a template.
